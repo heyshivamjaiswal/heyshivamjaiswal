@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=autobot19&label=Profile%20views&color=0e75b6&style=flat" alt="autobot19" />
+  <img src="https://komarev.com/ghpvc/?username=heyshivamjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="heyshivamjaiswal" />
 </p>
 
 ---
@@ -40,15 +40,15 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=autobot19&show_icons=true&theme=radical" alt="autobot19" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=autobot19&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=heyshivamjaiswal&show_icons=true&theme=radical" alt="heyshivamjaiswal" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyshivamjaiswal&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
 <h3 align="center">🏆 GitHub Trophies</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=autobot19&theme=onestar&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=heyshivamjaiswal&theme=onestar&row=1&column=6" />
 </p>
 
 
