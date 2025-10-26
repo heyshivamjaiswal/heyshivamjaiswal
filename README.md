@@ -28,32 +28,6 @@
   <a href="https://www.leetcode.com/stl4gy7j7f" target="_blank"><img src="https://img.shields.io/badge/Leetcode-Profile-orange?style=for-the-badge&logo=leetcode" /></a>
 </p>
 
----
-
-<h3 align="center">🛠️ Languages and Tools</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,nodejs,express,typescript,javascript,cpp,html,css,mongodb,mysql,postgres,"/>
-</p>
-
----
-
-<h3 align="center">📈 GitHub Stats</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=heyshivamjaiswal&show_icons=true&theme=radical" alt="heyshivamjaiswal" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=heyshivamjaiswal&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-<h3 align="center">🏆 GitHub Trophies</h3>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=heyshivamjaiswal&theme=onestar&row=1&column=6" />
-</p>
-
-
-
-
 
 ---
 
