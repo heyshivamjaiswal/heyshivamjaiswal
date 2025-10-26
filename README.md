@@ -5,10 +5,6 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNXplZ3JicW5ydjd4b21nNDFidWVoemMxMXd3cmtpamFneG11ZzMycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11KzOet1ElBDz2/giphy.gif" width="250" alt="coding gif" />
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=heyshivamjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="heyshivamjaiswal" />
-</p>
-
 ---
 
 - 🔭 I’m currently working on **real-world full-stack projects using MERN + Redis + Docker**
