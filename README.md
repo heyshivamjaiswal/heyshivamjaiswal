@@ -18,4 +18,10 @@
 - Databases: MongoDB , Firestore.
 - State Management: Zustand, Redux Toolkit
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=heyshivamjaiswal" alt="GitHub Streak" /></a>
+![](https://github-readme-stats.vercel.app/api?username=heyshivamjaiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=heyshivamjaiswal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=heyshivamjaiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
