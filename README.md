@@ -20,7 +20,6 @@
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=heyshivamjaiswal&hide_border=true&theme=github-dark-blue" height="160"/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=heyshivamjaiswal&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heyshivamjaiswal&theme=dark&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
