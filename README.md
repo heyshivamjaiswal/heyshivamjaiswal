@@ -19,10 +19,7 @@
 - State Management: Zustand, Redux Toolkit
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=heyshivamjaiswal&label=Profile%20views&color=0e75b6&style=flat" alt="heyshivamjaiswal" /> </p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyshivamjaiswal&" alt="heyshivamjaiswal" /></p>
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=heyshivamjaiswal&theme=dark&hide_border=false&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
