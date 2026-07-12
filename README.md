@@ -12,14 +12,11 @@
 ---
 <h2>Tools & Technologies</h2>
 
-- Languages: Javascript/TypeScript, C++.
-- Frameworks/ Libraries: Node.js/Express.js, React.js , Framer Motion , Tailwind CSS.
+- Languages: Javascript/TypeScript, Python, C++.
+- Frameworks/ Libraries: Node.js/Express.js ,FastAPI ,React.js ,Next.js Framer Motion ,ShadcnUI Tailwind CSS.
 - Platforms / Services: Firebase (Authentication, Firestore, Hosting), Vercel, GitHub
-- Databases: MongoDB , Firestore.
+- Databases: PostgreSQL, MongoDB, Vector Store(Pinecone , Qdrant), Firestore.
 - State Management: Zustand, Redux Toolkit
-
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heyshivamjaiswal&" alt="heyshivamjaiswal" /></p>
 
 
 
