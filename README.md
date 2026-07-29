@@ -5,7 +5,7 @@
 
 ---
 
-- My portfolio: [Shivam Jaiswal](https://heyshivam-six.vercel.app/)
+- My portfolio: [Shivam Jaiswal]()
 - Reach me at **[Email](mailto:jaiswalsunny4656@gmail.com)** or **[Linkedin](https://www.linkedin.com/in/shivamjaiswal1/)**
 - Working with RAG , MERN, NextJS, Typescript, Websocket nowadays!
 
