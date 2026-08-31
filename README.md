@@ -12,4 +12,4 @@ I build full stack apps and RAG systems, and I'm moving deeper into agentic AI a
 * Tools & Services: Git, GitHub, Firebase, Vercel
 
 **Connect**
-[LinkedIn](https://www.linkedin.com/in/shivamjaiswal1/) · [Email](mailto:jaiswalsunny4656@gmail.com) · [Portfolio](https://portfolio-ruby-beta-65.vercel.app/)
+           [LinkedIn](https://www.linkedin.com/in/shivamjaiswal1/) · [Email](mailto:jaiswalsunny4656@gmail.com) · [Portfolio](https://portfolio-ruby-beta-65.vercel.app/)
